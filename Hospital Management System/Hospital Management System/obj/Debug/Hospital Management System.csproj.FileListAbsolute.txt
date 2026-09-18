@@ -1,0 +1,10 @@
+C:\Users\John Alexis De Belen\OneDrive\Desktop\gitHub\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\John Alexis De Belen\OneDrive\Desktop\gitHub\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\John Alexis De Belen\OneDrive\Desktop\gitHub\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\John Alexis De Belen\OneDrive\Desktop\gitHub\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\John Alexis De Belen\OneDrive\Desktop\gitHub\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.LoginForm.resources
+C:\Users\John Alexis De Belen\OneDrive\Desktop\gitHub\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\John Alexis De Belen\OneDrive\Desktop\gitHub\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\John Alexis De Belen\OneDrive\Desktop\gitHub\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\John Alexis De Belen\OneDrive\Desktop\gitHub\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\John Alexis De Belen\OneDrive\Desktop\gitHub\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
