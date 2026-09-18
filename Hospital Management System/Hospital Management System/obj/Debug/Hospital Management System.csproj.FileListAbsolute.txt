@@ -8,3 +8,14 @@ C:\Users\John Alexis De Belen\OneDrive\Desktop\gitHub\Hospital Management System
 C:\Users\John Alexis De Belen\OneDrive\Desktop\gitHub\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
 C:\Users\John Alexis De Belen\OneDrive\Desktop\gitHub\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
 C:\Users\John Alexis De Belen\OneDrive\Desktop\gitHub\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\KimJo\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\KimJo\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\KimJo\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\KimJo\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\KimJo\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.HomePage.resources
+C:\Users\KimJo\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.LoginForm.resources
+C:\Users\KimJo\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\KimJo\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\KimJo\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\KimJo\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\KimJo\OneDrive\Desktop\New folder\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
