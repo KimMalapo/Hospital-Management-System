@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/DB/">
+    <File Path="Database.cs" />
+  </Folder>
   <Project Path="Hospital Management System/Hospital Management System.csproj" Id="c320da10-8461-4d28-a87e-5b18be858930" />
 </Solution>
